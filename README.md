@@ -1,24 +1,16 @@
 # vue-project
+# Zero-Trust Score Widget
 
-## Project setup
-```
-npm install
-```
+A Vue.js component that visually represents a Zero-Trust Score using Vuetify.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features
+- Displays overall Zero-Trust Score
+- Shows individual metric scores with progress bars
+- Indicates risk category visually
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Installation
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Clone the repository:
+ 
+   1) git clone <repository-url>
+   2) cd <repository-folder>
